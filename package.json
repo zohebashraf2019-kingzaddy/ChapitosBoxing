@@ -1,0 +1,9 @@
+{
+  "name": "chapitos-boxing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for Chapito's Boxing Gym, Reno NV",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
